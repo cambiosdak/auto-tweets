@@ -12,5 +12,5 @@ npm i axios random-words
 You need to modify the code and obtain your ``cookie``, ``x-csrf-token`` and ``authorization`` in the headers of the requests as well as ``queryId`` on data section.
 
 ## Reference
-[Axios](https://www.npmjs.com/package/axios)
-[Twitter](http://twitter.com)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Twitter](http://twitter.com)
