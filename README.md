@@ -7,7 +7,7 @@ All the data, endpoint and else was extracted using Web Scrapping and HTTP Reque
 ## Usage
 Install package via npm:
 ```
-npm i axios
+npm i axios random-words
 ```
 You need to modify the code and obtain your ``cookie``, ``x-csrf-token`` and ``authorization`` in the headers of the requests as well as ``queryId`` on data section.
 
